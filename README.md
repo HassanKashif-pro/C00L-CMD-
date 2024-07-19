@@ -14,3 +14,4 @@ put your message on the "your_message" this command sends a message to all the p
 curl parrot.live
 ```
 #:partyparrot:
+No Shit 
