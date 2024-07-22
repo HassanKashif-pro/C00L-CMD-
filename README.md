@@ -14,4 +14,9 @@ put your message on the "your_message" this command sends a message to all the p
 curl parrot.live
 ```
 #:partyparrot:
-
+* 3 :
+   This is the command to show a rainbow running man on CMD.
+  ```
+  curl ascii.live/forrest
+  ```
+  #:runningman:
