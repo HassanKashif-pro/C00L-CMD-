@@ -15,7 +15,7 @@ curl parrot.live
 ```
 #:partyparrot:
 * 3 :
-   This is the command to show a rainbow running man on CMD.
+   This is the command to show a running man on CMD.
   ```
   curl ascii.live/forrest
   ```
