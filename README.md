@@ -20,3 +20,10 @@ curl parrot.live
   curl ascii.live/forrest
   ```
   #:runningman:
+* 4 :
+   You can open a file or a folder in CMD by Entring :
+  ```
+  .cmd
+  ```
+  in the explorer path area.
+  #open CMD.
